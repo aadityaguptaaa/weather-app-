@@ -93,7 +93,7 @@ To run this project locally:
 
 ## 🌐 Live Demo
 
-🔗 **Check it out here**: [https://aadityaguptaaa.github.io/Weather-app/](https://aadityaguptaaa.github.io/Weather-app/)
+🔗 **Check it out here**: [https://aadityaguptaaa.github.io/Weather-app/](https://aadityaguptaaa.github.io/weather-app-/)
 
 
 
