@@ -1,5 +1,5 @@
 
-# 🌦️ Weather App with Voice Search
+# 🌦️ Weather App 
 
 A sleek and user-friendly **Weather Forecast Web App** that provides real-time weather and a 7-day forecast using **OpenWeatherMap API**. It features a clean UI, is mobile responsive, and supports **voice-based city input** for added convenience.
 
@@ -29,7 +29,8 @@ A sleek and user-friendly **Weather Forecast Web App** that provides real-time w
 
 ## 🖼️ Screenshots
 
-![Weather App Screenshot](https://i.imgur.com/0c2xWqM.png) <!-- Replace with your hosted image URL -->
+![Weather App Screenshot]![194750372-b524eec3-5ef9-4f0c-b82b-770ec8850fc1](https://github.com/user-attachments/assets/3c37c7bb-2520-465f-b221-a0bab191eca6)
+
 
 <br>
 
