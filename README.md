@@ -35,7 +35,7 @@ A sleek and user-friendly **Weather Forecast Web App** that provides real-time w
 
 ## 🖼️ Screenshots
 
-![Weather App Screenshot]![194750372-b524eec3-5ef9-4f0c-b82b-770ec8850fc1](https://github.com/user-attachments/assets/24a9c5fa-7f7e-4d80-80f4-30c156e08721)
+[194750372-b524eec3-5ef9-4f0c-b82b-770ec8850fc1](https://github.com/user-attachments/assets/24a9c5fa-7f7e-4d80-80f4-30c156e08721)
 
 
 
