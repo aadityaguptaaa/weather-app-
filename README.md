@@ -2,7 +2,9 @@
 
 A sleek and user-friendly **Weather Forecast Web App** that provides real-time weather data and a detailed 7-day forecast using the **OpenWeatherMap API**. Built with a clean, modern UI and responsive design, this app also supports **voice-based city input** for enhanced accessibility.
 
----
+
+
+
 
 ## 📚 Table of Contents
 
@@ -14,7 +16,9 @@ A sleek and user-friendly **Weather Forecast Web App** that provides real-time w
 - [Live Demo](#-live-demo)
 - [License](#-license)
 
----
+
+
+
 
 ## 📌 Features
 
@@ -25,13 +29,18 @@ A sleek and user-friendly **Weather Forecast Web App** that provides real-time w
 - 🎨 Clean and intuitive user interface  
 - ⚙️ Powered by OpenWeatherMap API  
 
----
+
+
+
 
 ## 🖼️ Screenshots
 
-![Weather App Screenshot](https://github.com/user-attachments/assets/3c37c7bb-2520-465f-b221-a0bab191eca6/194750372-b524eec3-5ef9-4f0c-b82b-770ec8850fc1)
+![Weather App Screenshot]![194750372-b524eec3-5ef9-4f0c-b82b-770ec8850fc1](https://github.com/user-attachments/assets/24a9c5fa-7f7e-4d80-80f4-30c156e08721)
 
----
+
+
+
+
 
 ## 📥 Installation
 
@@ -53,7 +62,9 @@ To run this project locally:
 4. **Add Your API Key**
    - Replace `"YOUR_API_KEY"` in the JavaScript file with your actual API key from [OpenWeatherMap](https://openweathermap.org/api).
 
----
+
+
+
 
 ## 🚀 Usage
 
@@ -61,7 +72,9 @@ To run this project locally:
 2. Press **Enter** or wait for the voice input to be processed.
 3. View real-time weather data and a visual 7-day forecast.
 
----
+
+
+
 
 ## 🧾 Technologies Used
 
@@ -73,13 +86,17 @@ To run this project locally:
 - **Bootstrap 5**
 - **Font Awesome**
 
----
+
+
+
 
 ## 🌐 Live Demo
 
 🔗 **Check it out here**: [https://aadityaguptaaa.github.io/Weather-app/](https://aadityaguptaaa.github.io/Weather-app/)
 
----
+
+
+
 
 ## 📄 License
 
